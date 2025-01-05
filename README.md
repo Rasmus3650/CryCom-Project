@@ -1,6 +1,4 @@
-Implementation of GSW.
-
-Implementation for both Python and Go, further info is in their respective folder as `README.md`
+Implementation of GSW in Golang and Python.
 
 ## Python
 The main file for this project is the `gsw_scheme.py`, this is where all the functionality of the GSW scheme has been implemented.
